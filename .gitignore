@@ -7,3 +7,6 @@ data/IT2a-n_words.tsv
 *.aux
 *.log
 *.out
+paper/*.aux
+paper/*.log
+paper/*.out
